@@ -1,0 +1,1506 @@
+[
+  {
+    "id": 1,
+    "name": "Galaxy S25 Ultra",
+    "brand": "Samsung",
+    "category": "Electronics",
+    "price": 1199.99,
+    "description": "The ultimate smartphone experience with a pro-grade camera and stunning display.",
+    "img": "https://placehold.co/600x400/1a202c/ffffff?text=Galaxy+S25",
+    "specs": {
+      "Screen": "6.8-inch Dynamic AMOLED",
+      "Camera": "200MP Wide, 12MP Ultrawide",
+      "Storage": "256GB",
+      "RAM": "12GB"
+    },
+    "features": ["S Pen Included", "8K Video Recording", "IP68 Water Resistant"]
+  },
+  {
+    "id": 2,
+    "name": "iPhone 16 Pro",
+    "brand": "Apple",
+    "category": "Electronics",
+    "price": 1099.00,
+    "description": "A magical piece of technology with the powerful A18 Bionic chip.",
+    "img": "https://placehold.co/600x400/334155/ffffff?text=iPhone+16",
+    "specs": {
+      "Screen": "6.1-inch Super Retina XDR",
+      "Camera": "48MP Main, 12MP Ultrawide",
+      "Storage": "256GB",
+      "Chip": "A18 Bionic"
+    },
+    "features": ["Dynamic Island", "ProMotion Technology", "Ceramic Shield"]
+  },
+  {
+    "id": 3,
+    "name": "Air Force 1 '07",
+    "brand": "Nike",
+    "category": "Men's Fashion",
+    "price": 110.00,
+    "description": "The radiance lives on in the b-ball original that puts a fresh spin on what you know best.",
+    "img": "https://placehold.co/600x400/f1f5f9/000000?text=Air+Force+1",
+    "specs": {
+      "Upper": "Leather",
+      "Sole": "Rubber",
+      "Color": "White"
+    },
+    "features": ["Durable stitching", "Plush ankle padding", "Nike Air cushioning"]
+  },
+  {
+    "id": 4,
+    "name": "VertuoPlus Coffee Maker",
+    "brand": "Nespresso",
+    "category": "Home & Kitchen",
+    "price": 159.95,
+    "description": "Brews 5 cup sizes at the touch of a button. The perfect coffee every time.",
+    "img": "https://placehold.co/600x400/44403c/ffffff?text=Nespresso",
+    "specs": {
+      "Capacity": "40 oz Water Tank",
+      "Technology": "Centrifusion Extraction",
+      "Heat-up time": "15 seconds"
+    },
+    "features": ["Automatic capsule ejection", "One-touch brewing", "Energy saving mode"]
+  },
+  {
+    "id": 5,
+    "name": "Sauvage Eau de Parfum",
+    "brand": "Dior",
+    "category": "Beauty & Health",
+    "price": 120.00,
+    "description": "A radically fresh composition, dictated by a name that has the ring of a manifesto.",
+    "img": "https://placehold.co/600x400/0c4a6e/ffffff?text=Sauvage",
+    "specs": {
+      "Volume": "100ml",
+      "Fragrance Family": "Earthy & Woody",
+      "Scent Type": "Citrus & Woods"
+    },
+    "features": ["Long-lasting scent", "Inspired by wild, open spaces", "Magnetic cap"]
+  },
+  {
+    "id": 6,
+    "name": "The Midnight Library",
+    "brand": "Penguin Random House",
+    "category": "Books & Stationery",
+    "price": 15.60,
+    "description": "A novel about all the choices that go into a life well lived.",
+    "img": "https://placehold.co/600x400/1e3a8a/ffffff?text=The+Midnight+Library",
+    "specs": {
+      "Author": "Matt Haig",
+      "Genre": "Fantasy Fiction",
+      "Pages": "304"
+    },
+    "features": ["New York Times Bestseller", "Good Morning America Book Club Pick"]
+  },
+  {
+    "id": 7,
+    "name": "Pike Place Roast",
+    "brand": "Starbucks",
+    "category": "Groceries",
+    "price": 14.99,
+    "description": "A smooth, well-rounded blend of Latin American coffees with subtly rich notes of cocoa and toasted nuts.",
+    "img": "https://placehold.co/600x400/059669/ffffff?text=Starbucks+Coffee",
+    "specs": {
+      "Roast": "Medium",
+      "Format": "Whole Bean",
+      "Weight": "1 lb"
+    },
+    "features": ["100% Arabica Beans", "Ethically Sourced"]
+  },
+  {
+    "id": 8,
+    "name": "Floral Midi Dress",
+    "brand": "Zara",
+    "category": "Women's Fashion",
+    "price": 79.90,
+    "description": "A beautiful and light midi dress perfect for summer days and evenings.",
+    "img": "https://placehold.co/600x400/db2777/ffffff?text=Zara+Dress",
+    "specs": {
+      "Material": "Viscose",
+      "Length": "Midi",
+      "Pattern": "Floral"
+    },
+    "features": ["V-neck", "Short sleeves", "Side slit"]
+  },
+  {
+    "id": 9,
+    "name": "XPS 15 Laptop",
+    "brand": "Dell",
+    "category": "Electronics",
+    "price": 2399.99,
+    "description": "Stunning 4-sided InfinityEdge display and the latest Intel processors.",
+    "img": "https://placehold.co/600x400/64748b/ffffff?text=Dell+XPS+15",
+    "specs": {
+      "Processor": "Intel Core i9",
+      "RAM": "32GB DDR5",
+      "Storage": "1TB NVMe SSD",
+      "Display": "15.6-inch OLED 3.5K"
+    },
+    "features": ["NVIDIA GeForce RTX Graphics", "Backlit Keyboard", "CNC machined aluminum"]
+  },
+  {
+    "id": 10,
+    "name": "501 Original Fit Jeans",
+    "brand": "Levi's",
+    "category": "Men's Fashion",
+    "price": 79.50,
+    "description": "The original blue jean since 1873. A blank canvas for self-expression.",
+    "img": "https://placehold.co/600x400/1e40af/ffffff?text=Levi's+501",
+    "specs": {
+      "Material": "100% Cotton",
+      "Fit": "Straight",
+      "Fly": "Button Fly"
+    },
+    "features": ["Non-stretch denim", "5-pocket styling", "Iconic leather patch"]
+  },
+  {
+    "id": 11,
+    "name": "Foodi Power Blender",
+    "brand": "Ninja",
+    "category": "Home & Kitchen",
+    "price": 199.99,
+    "description": "The blender that crushes, food processes, and makes dough.",
+    "img": "https://placehold.co/600x400/dc2626/ffffff?text=Ninja+Blender",
+    "specs": {
+      "Power": "1400 Watts",
+      "Capacity": "72 oz Pitcher",
+      "Programs": "6 Auto-iQ Programs"
+    },
+    "features": ["smartTORQUE technology", "Variable speed control", "Dishwasher safe parts"]
+  },
+  {
+    "id": 12,
+    "name": "Crème de la Mer",
+    "brand": "La Mer",
+    "category": "Beauty & Health",
+    "price": 380.00,
+    "description": "The legendary cream that has inspired a cult following. Helps heal dryness.",
+    "img": "https://placehold.co/600x400/a3e635/000000?text=La+Mer",
+    "specs": {
+      "Volume": "60ml",
+      "Skin Type": "Dry, Combination",
+      "Key Ingredient": "Miracle Broth"
+    },
+    "features": ["Visibly reduces lines and wrinkles", "Soothes and moisturizes", "Luxurious feel"]
+  },
+  {
+    "id": 13,
+    "name": "Classic Notebook",
+    "brand": "Moleskine",
+    "category": "Books & Stationery",
+    "price": 22.95,
+    "description": "The legendary notebook, used by artists and thinkers over the past two centuries.",
+    "img": "https://placehold.co/600x400/171717/ffffff?text=Moleskine",
+    "specs": {
+      "Size": "Large (5\" x 8.25\")",
+      "Pages": "240",
+      "Layout": "Ruled"
+    },
+    "features": ["Elastic closure", "Ribbon bookmark", "Expandable inner pocket"]
+  },
+  {
+    "id": 14,
+    "name": "Extra Virgin Olive Oil",
+    "brand": "Colavita",
+    "category": "Groceries",
+    "price": 18.99,
+    "description": "A premium, cold-pressed olive oil with a fruity, delicate flavor.",
+    "img": "https://placehold.co/600x400/facc15/000000?text=Olive+Oil",
+    "specs": {
+      "Origin": "Italy",
+      "Process": "Cold-Pressed",
+      "Volume": "750ml"
+    },
+    "features": ["First cold press", "Certified authentic", "Perfect for salads and dressings"]
+  },
+  {
+    "id": 15,
+    "name": "Jet Set Travel Tote",
+    "brand": "Michael Kors",
+    "category": "Women's Fashion",
+    "price": 298.00,
+    "description": "A signature tote that is the ultimate travel companion.",
+    "img": "https://placehold.co/600x400/ca8a04/ffffff?text=Michael+Kors",
+    "specs": {
+      "Material": "Saffiano Leather",
+      "Color": "Brown",
+      "Dimensions": "15\"W X 10\"H X 4.5\"D"
+    },
+    "features": ["Top-zip closure", "Interior zip pocket", "Polished hardware"]
+  },
+  {
+    "id": 16,
+    "name": "WH-1000XM5 Headphones",
+    "brand": "Sony",
+    "category": "Electronics",
+    "price": 399.99,
+    "description": "Industry-leading noise canceling headphones with a new design.",
+    "img": "https://placehold.co/600x400/020617/ffffff?text=Sony+XM5",
+    "specs": {
+      "Type": "Over-ear",
+      "Battery Life": "30 hours",
+      "Connectivity": "Bluetooth 5.2"
+    },
+    "features": ["Dual Processor Noise Cancelling", "Crystal clear hands-free calling", "Lightweight design"]
+  },
+  {
+    "id": 17,
+    "name": "Ultraboost Light",
+    "brand": "Adidas",
+    "category": "Men's Fashion",
+    "price": 190.00,
+    "description": "Experience epic energy with the new Ultraboost Light, our lightest Ultraboost ever.",
+    "img": "https://placehold.co/600x400/000000/ffffff?text=Ultraboost",
+    "specs": {
+      "Midsole": "Light BOOST",
+      "Upper": "PRIMEKNIT+",
+      "Use": "Running"
+    },
+    "features": ["Continental™ Rubber outsole", "Made in part with recycled materials"]
+  },
+  {
+    "id": 18,
+    "name": "Stainless Steel Cookware Set",
+    "brand": "Cuisinart",
+    "category": "Home & Kitchen",
+    "price": 299.95,
+    "description": "12-piece set that provides everything you need to cook like a pro.",
+    "img": "https://placehold.co/600x400/94a3b8/000000?text=Cookware",
+    "specs": {
+      "Pieces": "12",
+      "Material": "Stainless Steel",
+      "Compatibility": "All stovetops, including induction"
+    },
+    "features": ["Cool Grip handles", "Drip-free pouring rims", "Dishwasher safe"]
+  },
+  {
+    "id": 19,
+    "name": "Coco Mademoiselle",
+    "brand": "Chanel",
+    "category": "Beauty & Health",
+    "price": 145.00,
+    "description": "An oriental fragrance, a spirited and voluptuous scent. The essence of a free and captivating woman.",
+    "img": "https://placehold.co/600x400/fbcfe8/000000?text=Chanel",
+    "specs": {
+      "Volume": "100ml",
+      "Fragrance Family": "Floral",
+      "Scent Type": "Warm & Spicy"
+    },
+    "features": ["Iconic bottle design", "Sparks of fresh and vibrant orange", "Clear and sensual heart"]
+  },
+  {
+    "id": 20,
+    "name": "Lamy Safari Fountain Pen",
+    "brand": "Lamy",
+    "category": "Books & Stationery",
+    "price": 29.60,
+    "description": "A timelessly modern pen for the young – and the young at heart.",
+    "img": "https://placehold.co/600x400/ef4444/ffffff?text=Lamy+Safari",
+    "specs": {
+      "Material": "ABS plastic",
+      "Nib": "Steel, Medium",
+      "Grip": "Ergonomic"
+    },
+    "features": ["Distinctive recessed grip", "Sturdy and flexible brass wire clip"]
+  },
+  {
+    "id": 21,
+    "name": "Penne Rigate",
+    "brand": "Barilla",
+    "category": "Groceries",
+    "price": 2.49,
+    "description": "The perfect pasta shape for holding onto your favorite sauces.",
+    "img": "https://placehold.co/600x400/0ea5e9/ffffff?text=Barilla+Pasta",
+    "specs": {
+      "Weight": "16 oz",
+      "Cook Time": "11 minutes",
+      "Source": "Italy"
+    },
+    "features": ["Made with 100% durum wheat", "Excellent source of energy"]
+  },
+  {
+    "id": 22,
+    "name": "Skinny High Jeans",
+    "brand": "H&M",
+    "category": "Women's Fashion",
+    "price": 39.99,
+    "description": "5-pocket jeans in washed, superstretch denim for a second-skin feel.",
+    "img": "https://placehold.co/600x400/374151/ffffff?text=H%26M+Jeans",
+    "specs": {
+      "Fit": "Skinny",
+      "Waist": "High Waist",
+      "Material": "Cotton, Elastane"
+    },
+    "features": ["Superstretch denim", "Zip fly and button", "Ankle length"]
+  },
+  {
+    "id": 23,
+    "name": "LG C3 65-Inch OLED TV",
+    "brand": "LG",
+    "category": "Electronics",
+    "price": 2099.99,
+    "description": "Incredible picture quality with infinite contrast and perfect blacks.",
+    "img": "https://placehold.co/600x400/1f2937/ffffff?text=LG+OLED",
+    "specs": {
+      "Size": "65 inches",
+      "Technology": "OLED evo",
+      "Processor": "a9 AI Processor Gen6"
+    },
+    "features": ["Dolby Vision & Atmos", "webOS 23 Smart TV", "120Hz Refresh Rate"]
+  },
+  {
+    "id": 24,
+    "name": "Classic Polo Shirt",
+    "brand": "Tommy Hilfiger",
+    "category": "Men's Fashion",
+    "price": 89.50,
+    "description": "A timeless polo crafted from pure cotton pique for a comfortable feel.",
+    "img": "https://placehold.co/600x400/b91c1c/ffffff?text=Tommy+Polo",
+    "specs": {
+      "Material": "100% Cotton",
+      "Fit": "Regular Fit",
+      "Collar": "Polo collar"
+    },
+    "features": ["Two-button placket", "Signature tape inside neckline", "Embroidered flag on chest"]
+  },
+  {
+    "id": 25,
+    "name": "Premium Airfryer XXL",
+    "brand": "Philips",
+    "category": "Home & Kitchen",
+    "price": 349.95,
+    "description": "The healthiest way to fry, with up to 90% less fat.",
+    "img": "https://placehold.co/600x400/000000/ffffff?text=Airfryer",
+    "specs": {
+      "Capacity": "7.3L (1.4kg)",
+      "Technology": "Rapid Air",
+      "Power": "2225W"
+    },
+    "features": ["Fat Removal technology", "Fry, bake, grill, roast and even reheat", "Digital display with 5 preset programs"]
+  },
+  {
+    "id": 26,
+    "name": "MacBook Air M3",
+    "brand": "Apple",
+    "category": "Electronics",
+    "price": 1299.00,
+    "description": "Supercharged by the M3 chip, the MacBook Air is the ultimate portable powerhouse.",
+    "img": "https://placehold.co/600x400/808080/ffffff?text=MacBook+Air",
+    "specs": {
+      "Chip": "Apple M3",
+      "Memory": "16GB",
+      "Storage": "512GB SSD",
+      "Display": "13.6-inch Liquid Retina"
+    },
+    "features": ["Fanless design", "Up to 18 hours of battery life", "1080p FaceTime HD camera"]
+  },
+  {
+    "id": 27,
+    "name": "Tech Fleece Jogger",
+    "brand": "Nike",
+    "category": "Men's Fashion",
+    "price": 120.00,
+    "description": "Premium, lightweight fleece, smooth both inside and out, gives you plenty of warmth without adding bulk.",
+    "img": "https://placehold.co/600x400/4b5563/ffffff?text=Nike+Jogger",
+    "specs": {
+      "Material": "Tech Fleece",
+      "Fit": "Tapered",
+      "Pockets": "Zippered side pocket"
+    },
+    "features": ["Ribbed cuffs", "Elastic waistband with drawcord", "Signature taped details"]
+  },
+  {
+    "id": 28,
+    "name": "Artisan Stand Mixer",
+    "brand": "KitchenAid",
+    "category": "Home & Kitchen",
+    "price": 449.99,
+    "description": "The iconic stand mixer, built to take it all on with the durable and built-to-last metal construction.",
+    "img": "https://placehold.co/600x400/be123c/ffffff?text=KitchenAid+Mixer",
+    "specs": {
+      "Capacity": "5 Quart",
+      "Wattage": "325W",
+      "Speeds": "10"
+    },
+    "features": ["Tilt-head design", "Includes flat beater, dough hook, and wire whip", "Over 10 attachments available"]
+  },
+  {
+    "id": 29,
+    "name": "Dyson Supersonic Hair Dryer",
+    "brand": "Dyson",
+    "category": "Beauty & Health",
+    "price": 429.99,
+    "description": "Engineered for different hair types. Fast drying, with no extreme heat.",
+    "img": "https://placehold.co/600x400/7c3aed/ffffff?text=Dyson+Dryer",
+    "specs": {
+      "Motor": "Dyson digital motor V9",
+      "Settings": "4 heat, 3 speed",
+      "Attachments": "5 magnetic styling attachments"
+    },
+    "features": ["Intelligent heat control", "Air Multiplier™ technology", "Acoustically tuned"]
+  },
+  {
+    "id": 30,
+    "name": "Atomic Habits",
+    "brand": "Penguin Random House",
+    "category": "Books & Stationery",
+    "price": 16.20,
+    "description": "An Easy & Proven Way to Build Good Habits & Break Bad Ones.",
+    "img": "https://placehold.co/600x400/f59e0b/000000?text=Atomic+Habits",
+    "specs": {
+      "Author": "James Clear",
+      "Genre": "Self-Help",
+      "Pages": "320"
+    },
+    "features": ["#1 New York Times Bestseller", "Over 15 million copies sold"]
+  },
+  {
+    "id": 31,
+    "name": "Organic Whole Milk",
+    "brand": "Horizon",
+    "category": "Groceries",
+    "price": 5.99,
+    "description": "Delicious, organic whole milk from pasture-raised cows.",
+    "img": "https://placehold.co/600x400/eab308/ffffff?text=Organic+Milk",
+    "specs": {
+      "Volume": "Half Gallon",
+      "Type": "Whole Milk",
+      "Certification": "USDA Organic"
+    },
+    "features": ["Excellent source of Calcium and Vitamin D", "Non-GMO", "No added hormones"]
+  },
+  {
+    "id": 32,
+    "name": "Ribbed Tank Top",
+    "brand": "Aritzia",
+    "category": "Women's Fashion",
+    "price": 38.00,
+    "description": "A quintessential tank top with a flattering ribbed texture.",
+    "img": "https://placehold.co/600x400/e5e7eb/000000?text=Aritzia+Tank",
+    "specs": {
+      "Material": "Cotton, Elastane",
+      "Fit": "Bodycon",
+      "Neckline": "Scoop"
+    },
+    "features": ["Soft-ribbed fabric", "High-stretch", "Versatile basic"]
+  },
+  {
+    "id": 33,
+    "name": "Nintendo Switch - OLED Model",
+    "brand": "Nintendo",
+    "category": "Electronics",
+    "price": 349.99,
+    "description": "Play at home or on-the-go with a vibrant 7-inch OLED screen.",
+    "img": "https://placehold.co/600x400/e11d48/ffffff?text=Nintendo+Switch",
+    "specs": {
+      "Screen": "7-inch OLED",
+      "Storage": "64GB",
+      "Modes": "TV, Tabletop, Handheld"
+    },
+    "features": ["Wide adjustable stand", "Enhanced audio", "LAN port for wired connection"]
+  },
+  {
+    "id": 34,
+    "name": "Classic Leather Belt",
+    "brand": "Gucci",
+    "category": "Men's Fashion",
+    "price": 490.00,
+    "description": "A classic leather belt with the iconic Double G buckle.",
+    "img": "https://placehold.co/600x400/b45309/ffffff?text=Gucci+Belt",
+    "specs": {
+      "Material": "Black Leather",
+      "Buckle": "Antique brass hardware",
+      "Width": "1.5 inches"
+    },
+    "features": ["Made in Italy", "Double G buckle", "Can be worn as a hip or waist belt"]
+  },
+  {
+    "id": 35,
+    "name": "Roomba j7+ Robot Vacuum",
+    "brand": "iRobot",
+    "category": "Home & Kitchen",
+    "price": 799.99,
+    "description": "The robot vacuum that identifies and avoids obstacles like pet waste and cords.",
+    "img": "https://placehold.co/600x400/3f3f46/ffffff?text=Roomba",
+    "specs": {
+      "Navigation": "PrecisionVision Navigation",
+      "Bin": "Self-Emptying Clean Base",
+      "Suction": "10x Power-Lifting Suction"
+    },
+    "features": ["P.O.O.P. (Pet Owner Official Promise)", "Imprint® Smart Mapping", "Works with voice assistants"]
+  },
+  {
+    "id": 36,
+    "name": "Advanced Night Repair Serum",
+    "brand": "Estée Lauder",
+    "category": "Beauty & Health",
+    "price": 80.00,
+    "description": "The #1 serum in the U.S. Experience the power of 7 serums in 1.",
+    "img": "https://placehold.co/600x400/9f1239/ffffff?text=Estee+Lauder",
+    "specs": {
+      "Volume": "50ml",
+      "Skin Type": "All",
+      "Key Ingredient": "Hyaluronic Acid"
+    },
+    "features": ["Reduces the look of multiple signs of aging", "Oil-free", "Dermatologist-tested"]
+  },
+  {
+    "id": 37,
+    "name": "The Lord of the Rings Trilogy",
+    "brand": "HarperCollins",
+    "category": "Books & Stationery",
+    "price": 35.99,
+    "description": "The complete three-volume paperback set of the epic fantasy novel.",
+    "img": "https://placehold.co/600x400/4d7c0f/ffffff?text=LOTR",
+    "specs": {
+      "Author": "J.R.R. Tolkien",
+      "Genre": "High Fantasy",
+      "Format": "Paperback Box Set"
+    },
+    "features": ["Includes The Fellowship of the Ring, The Two Towers, The Return of the King"]
+  },
+  {
+    "id": 38,
+    "name": "Ben & Jerry's Half Baked",
+    "brand": "Ben & Jerry's",
+    "category": "Groceries",
+    "price": 4.99,
+    "description": "A delectable combination of Chocolate & Vanilla Ice Creams with Fudge Brownies & Gobs of Chocolate Chip Cookie Dough.",
+    "img": "https://placehold.co/600x400/7dd3fc/000000?text=Ben+%26+Jerry's",
+    "specs": {
+      "Size": "Pint",
+      "Flavor": "Half Baked",
+      "Diet": "Non-GMO"
+    },
+    "features": ["Fairtrade ingredients", "Responsibly sourced packaging", "Cage-free eggs"]
+  },
+  {
+    "id": 39,
+    "name": "The Effortless Pants",
+    "brand": "Aritzia",
+    "category": "Women's Fashion",
+    "price": 148.00,
+    "description": "A high-waisted, wide-leg pant with a pleated front.",
+    "img": "https://placehold.co/600x400/d4d4d8/000000?text=Effortless+Pants",
+    "specs": {
+      "Material": "Crepe",
+      "Fit": "Wide Leg",
+      "Waist": "High"
+    },
+    "features": ["Darted back for shaping", "Slash hand pockets", "Lightweight and drapey"]
+  },
+  {
+    "id": 40,
+    "name": "Bose QuietComfort Ultra Earbuds",
+    "brand": "Bose",
+    "category": "Electronics",
+    "price": 299.00,
+    "description": "World-class noise cancellation and high-fidelity audio, all in a compact, truly wireless earbud.",
+    "img": "https://placehold.co/600x400/111827/ffffff?text=Bose+Earbuds",
+    "specs": {
+      "Type": "In-ear",
+      "Battery Life": "6 hours",
+      "Noise Cancelling": "Active"
+    },
+    "features": ["CustomTune technology", "Aware Mode with ActiveSense", "Simple touch controls"]
+  },
+  {
+    "id": 41,
+    "name": "Lululemon Align High-Rise Pant",
+    "brand": "Lululemon",
+    "category": "Women's Fashion",
+    "price": 98.00,
+    "description": "Buttery-soft and weightless, the Align collection is perfect for yoga and lounging.",
+    "img": "https://placehold.co/600x400/18181b/ffffff?text=Lululemon+Align",
+    "specs": {
+      "Material": "Nulu™ Fabric",
+      "Length": "28 inches",
+      "Waist": "High-Rise"
+    },
+    "features": ["Four-way stretch", "Sweat-wicking", "Hidden waistband pocket"]
+  },
+  {
+    "id": 42,
+    "name": "Dyson V15 Detect Absolute",
+    "brand": "Dyson",
+    "category": "Home & Kitchen",
+    "price": 749.99,
+    "description": "The most powerful, intelligent cordless vacuum with a laser that reveals microscopic dust.",
+    "img": "https://placehold.co/600x400/f59e0b/ffffff?text=Dyson+V15",
+    "specs": {
+      "Runtime": "Up to 60 minutes",
+      "Bin volume": "0.76L",
+      "Suction Power": "240AW"
+    },
+    "features": ["Laser Slim Fluffy™ cleaner head", "Piezo sensor sizes and counts dust particles", "LCD screen shows what’s been sucked up"]
+  },
+  {
+    "id": 43,
+    "name": "Birkenstock Arizona",
+    "brand": "Birkenstock",
+    "category": "Men's Fashion",
+    "price": 110.00,
+    "description": "The often-imitated, never-duplicated, two-strap classic from Birkenstock.",
+    "img": "https://placehold.co/600x400/78350f/ffffff?text=Birkenstock",
+    "specs": {
+      "Upper": "Birko-Flor",
+      "Footbed": "Cork-latex",
+      "Sole": "EVA"
+    },
+    "features": ["Anatomically shaped footbed", "Adjustable straps", "Made in Germany"]
+  },
+  {
+    "id": 44,
+    "name": "CeraVe Hydrating Facial Cleanser",
+    "brand": "CeraVe",
+    "category": "Beauty & Health",
+    "price": 15.99,
+    "description": "A gentle face wash with ingredients like ceramides and hyaluronic acid that work to restore the skin’s natural barrier.",
+    "img": "https://placehold.co/600x400/22d3ee/000000?text=CeraVe",
+    "specs": {
+      "Volume": "16 fl oz",
+      "Skin Type": "Normal to Dry",
+      "Key Ingredients": "Ceramides, Hyaluronic Acid"
+    },
+    "features": ["Non-comedogenic", "Fragrance-free", "Accepted by National Eczema Association"]
+  },
+  {
+    "id": 45,
+    "name": "Pilot G2 Gel Pen",
+    "brand": "Pilot",
+    "category": "Books & Stationery",
+    "price": 12.50,
+    "description": "The ideal pen for overachievers. Smooth writing, long-lasting, and comfortable.",
+    "img": "https://placehold.co/600x400/1d4ed8/ffffff?text=Pilot+G2",
+    "specs": {
+      "Point Size": "0.7mm",
+      "Ink": "Gel",
+      "Quantity": "12-pack"
+    },
+    "features": ["Comfortable rubber grip", "Retractable and refillable", "America's #1 selling gel pen"]
+  },
+  {
+    "id": 46,
+    "name": "Tropicana Orange Juice",
+    "brand": "Tropicana",
+    "category": "Groceries",
+    "price": 4.29,
+    "description": "100% pure orange juice with no added sugar for a taste that’s the next best thing to fresh-squeezed.",
+    "img": "https://placehold.co/600x400/fb923c/ffffff?text=Tropicana",
+    "specs": {
+      "Volume": "52 fl oz",
+      "Pulp": "No Pulp",
+      "Source": "100% pure squeezed fruit"
+    },
+    "features": ["Never from concentrate", "Excellent source of Vitamin C", "No artificial sweeteners"]
+  },
+  {
+    "id": 47,
+    "name": "GoPro HERO12 Black",
+    "brand": "GoPro",
+    "category": "Electronics",
+    "price": 399.99,
+    "description": "In-camera stabilization, and incredible battery life come together in the world's most versatile camera.",
+    "img": "https://placehold.co/600x400/0891b2/ffffff?text=GoPro+HERO12",
+    "specs": {
+      "Video": "5.3K60",
+      "Photo": "27MP",
+      "Waterproof": "33ft (10m)"
+    },
+    "features": ["HyperSmooth 6.0 stabilization", "HDR Video", "Extended battery life"]
+  },
+  {
+    "id": 48,
+    "name": "Canada Goose Expedition Parka",
+    "brand": "Canada Goose",
+    "category": "Men's Fashion",
+    "price": 1550.00,
+    "description": "Originally developed for scientists working in McMurdo Station, Antarctica.",
+    "img": "https://placehold.co/600x400/dc2626/ffffff?text=Canada+Goose",
+    "specs": {
+      "Fill": "625 Fill Power White Duck Down",
+      "Fit": "Relaxed",
+      "TEI": "5 (-30°C & below)"
+    },
+    "features": ["Coyote fur ruff", "A multitude of pockets", "Designed for the harshest conditions"]
+  },
+  {
+    "id": 49,
+    "name": "Always Pan 2.0",
+    "brand": "Our Place",
+    "category": "Home & Kitchen",
+    "price": 150.00,
+    "description": "The cult-favorite pan that is designed to replace 10 pieces of traditional cookware.",
+    "img": "https://placehold.co/600x400/f87171/ffffff?text=Always+Pan",
+    "specs": {
+      "Diameter": "10.5 inches",
+      "Material": "Ceramic non-stick",
+      "Compatibility": "All cooktops"
+    },
+    "features": ["Includes nesting steamer basket and spatula", "Oven safe up to 450°F", "Toxin-free coating"]
+  },
+  {
+    "id": 50,
+    "name": "Olaplex No. 3 Hair Perfector",
+    "brand": "Olaplex",
+    "category": "Beauty & Health",
+    "price": 30.00,
+    "description": "A treatment, not a conditioner, that reduces breakage and visibly strengthens hair, improving its look and feel.",
+    "img": "https://placehold.co/600x400/fde68a/000000?text=Olaplex",
+    "specs": {
+      "Volume": "100ml",
+      "Hair Type": "All",
+      "Use": "Weekly pre-shampoo treatment"
+    },
+    "features": ["Repairs damaged and compromised hair", "Strengthens and protects hair structure", "Restores healthy appearance and texture"]
+  },
+  {
+    "id": 51,
+    "name": "The Daily Stoic",
+    "brand": "Portfolio",
+    "category": "Books & Stationery",
+    "price": 20.00,
+    "description": "366 Meditations on Wisdom, Perseverance, and the Art of Living.",
+    "img": "https://placehold.co/600x400/57534e/ffffff?text=The+Daily+Stoic",
+    "specs": {
+      "Author": "Ryan Holiday",
+      "Genre": "Philosophy",
+      "Format": "Hardcover"
+    },
+    "features": ["Page-a-day format", "Translations from Stoic philosophers", "Features Seneca, Epictetus, and Marcus Aurelius"]
+  },
+  {
+    "id": 52,
+    "name": "Kind Bar, Dark Chocolate Nuts & Sea Salt",
+    "brand": "Kind",
+    "category": "Groceries",
+    "price": 15.97,
+    "description": "A satisfyingly nutty snack that only seems indulgent.",
+    "img": "https://placehold.co/600x400/4a044e/ffffff?text=Kind+Bar",
+    "specs": {
+      "Quantity": "12 bars",
+      "Sugar": "5g",
+      "Protein": "6g"
+    },
+    "features": ["Gluten-free", "Good source of fiber", "Made with whole nuts"]
+  },
+  {
+    "id": 53,
+    "name": "Satin Slip Skirt",
+    "brand": "Reformation",
+    "category": "Women's Fashion",
+    "price": 128.00,
+    "description": "A midi length, slip-style skirt with a side slit.",
+    "img": "https://placehold.co/600x400/fecaca/000000?text=Reformation+Skirt",
+    "specs": {
+      "Material": "Silk Charmeuse",
+      "Length": "Midi",
+      "Fit": "Slim"
+    },
+    "features": ["High waist", "Side zipper", "Sustainably made"]
+  },
+  {
+    "id": 54,
+    "name": "Amazon Echo Dot (5th Gen)",
+    "brand": "Amazon",
+    "category": "Electronics",
+    "price": 49.99,
+    "description": "Our best-sounding Echo Dot yet, with clearer vocals and deeper bass.",
+    "img": "https://placehold.co/600x400/2563eb/ffffff?text=Echo+Dot",
+    "specs": {
+      "Speaker": "1.73-inch front-firing",
+      "Alexa": "Enabled",
+      "Connectivity": "Wi-Fi, Bluetooth"
+    },
+    "features": ["Control smart home devices", "Play music and podcasts", "Set timers and alarms"]
+  },
+  {
+    "id": 55,
+    "name": "Ray-Ban Wayfarer Classic",
+    "brand": "Ray-Ban",
+    "category": "Men's Fashion",
+    "price": 163.00,
+    "description": "The most recognizable style in the history of sunglasses.",
+    "img": "https://placehold.co/600x400/000000/ffffff?text=Ray-Ban",
+    "specs": {
+      "Frame": "Acetate",
+      "Lens": "G-15 Green",
+      "Shape": "Square"
+    },
+    "features": ["100% UV protection", "Iconic design", "Available in multiple colors"]
+  },
+  {
+    "id": 56,
+    "name": "Le Creuset Dutch Oven",
+    "brand": "Le Creuset",
+    "category": "Home & Kitchen",
+    "price": 420.00,
+    "description": "The iconic piece of cookware, prized for its design and exceptional heat retention.",
+    "img": "https://placehold.co/600x400/f97316/ffffff?text=Le+Creuset",
+    "specs": {
+      "Capacity": "5.5 Quart",
+      "Material": "Enameled Cast Iron",
+      "Color": "Flame"
+    },
+    "features": ["Resists chipping and cracking", "Easy-to-clean interior enamel", "Ergonomic knobs and handles"]
+  },
+  {
+    "id": 57,
+    "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+    "brand": "The Ordinary",
+    "category": "Beauty & Health",
+    "price": 6.50,
+    "description": "A high-strength vitamin and mineral blemish formula.",
+    "img": "https://placehold.co/600x400/e2e8f0/000000?text=The+Ordinary",
+    "specs": {
+      "Volume": "30ml",
+      "Target": "Blemishes, Oiliness",
+      "Format": "Water-based serum"
+    },
+    "features": ["Reduces the appearance of skin blemishes", "Balances visible sebum activity", "Vegan and cruelty-free"]
+  },
+  {
+    "id": 58,
+    "name": "Post-it Notes, 3x3",
+    "brand": "3M",
+    "category": "Books & Stationery",
+    "price": 14.99,
+    "description": "The classic sticky note for leaving reminders and messages.",
+    "img": "https://placehold.co/600x400/fef08a/000000?text=Post-it",
+    "specs": {
+      "Size": "3 in x 3 in",
+      "Color": "Canary Yellow",
+      "Quantity": "14 pads"
+    },
+    "features": ["Sticks securely and removes cleanly", "Recyclable", "Ideal for vertical surfaces"]
+  },
+  {
+    "id": 59,
+    "name": "Cheerios Cereal",
+    "brand": "General Mills",
+    "category": "Groceries",
+    "price": 4.59,
+    "description": "A wholesome, toasted whole grain oat cereal.",
+    "img": "https://placehold.co/600x400/fbbf24/000000?text=Cheerios",
+    "specs": {
+      "Weight": "18 oz",
+      "Grains": "Whole Grain Oats",
+      "Heart Healthy": "Yes"
+    },
+    "features": ["Gluten-free", "Good source of fiber", "100% whole grain oats"]
+  },
+  {
+    "id": 60,
+    "name": "Oversized Wool Blazer",
+    "brand": "COS",
+    "category": "Women's Fashion",
+    "price": 250.00,
+    "description": "A timeless blazer with a modern, oversized fit.",
+    "img": "https://placehold.co/600x400/404040/ffffff?text=COS+Blazer",
+    "specs": {
+      "Material": "100% Wool",
+      "Fit": "Oversized",
+      "Lining": "Fully lined"
+    },
+    "features": ["Single-breasted design", "Notched lapels", "Responsibly sourced wool"]
+  },
+  {
+    "id": 61,
+    "name": "PlayStation 5 Console",
+    "brand": "Sony",
+    "category": "Electronics",
+    "price": 499.99,
+    "description": "Experience lightning-fast loading with an ultra-high-speed SSD and deeper immersion with support for haptic feedback.",
+    "img": "https://placehold.co/600x400/0ea5e9/ffffff?text=PS5",
+    "specs": {
+      "Storage": "825GB Custom SSD",
+      "Resolution": "Up to 8K",
+      "Controller": "DualSense Wireless Controller"
+    },
+    "features": ["Ray Tracing", "4K-TV Gaming", "Tempest 3D AudioTech"]
+  },
+  {
+    "id": 62,
+    "name": "Patagonia Baggies Shorts",
+    "brand": "Patagonia",
+    "category": "Men's Fashion",
+    "price": 65.00,
+    "description": "A comfortable, multifunctional short for any activity.",
+    "img": "https://placehold.co/600x400/22c55e/ffffff?text=Patagonia",
+    "specs": {
+      "Material": "Recycled Nylon",
+      "Inseam": "5 inches",
+      "Liner": "Mesh"
+    },
+    "features": ["DWR (durable water repellent) finish", "Elasticized waistband", "Quick-drying"]
+  },
+  {
+    "id": 63,
+    "name": "YETI Rambler 30 oz Tumbler",
+    "brand": "YETI",
+    "category": "Home & Kitchen",
+    "price": 38.00,
+    "description": "Keeps your drinks ice cold or piping hot longer. Built for the wild.",
+    "img": "https://placehold.co/600x400/6b7280/ffffff?text=YETI",
+    "specs": {
+      "Capacity": "30 oz",
+      "Material": "18/8 Stainless Steel",
+      "Insulation": "Double-wall vacuum"
+    },
+    "features": ["Dishwasher safe", "No Sweat™ Design", "MagSlider™ Lid"]
+  },
+  {
+    "id": 64,
+    "name": "Laneige Lip Sleeping Mask",
+    "brand": "Laneige",
+    "category": "Beauty & Health",
+    "price": 24.00,
+    "description": "A leave-on lip mask that soothes and moisturizes for smoother, more supple lips overnight.",
+    "img": "https://placehold.co/600x400/f472b6/ffffff?text=Laneige",
+    "specs": {
+      "Volume": "20g",
+      "Key Ingredient": "Berry Mix Complex™",
+      "Texture": "Balm"
+    },
+    "features": ["Enriched with Vitamin C", "Moisture Wrap™ Technology", "Includes applicator"]
+  },
+  {
+    "id": 65,
+    "name": "Sharpie Fine Point Markers",
+    "brand": "Sharpie",
+    "category": "Books & Stationery",
+    "price": 19.99,
+    "description": "The industry standard permanent marker, perfect for countless uses.",
+    "img": "https://placehold.co/600x400/000000/ffffff?text=Sharpie",
+    "specs": {
+      "Tip": "Fine Point",
+      "Colors": "24 Assorted",
+      "Ink": "Permanent"
+    },
+    "features": ["Quick-drying, fade-resistant ink", "AP certified non-toxic", "Marks on most surfaces"]
+  },
+  {
+    "id": 66,
+    "name": "Dave's Killer Bread, 21 Whole Grains",
+    "brand": "Dave's Killer Bread",
+    "category": "Groceries",
+    "price": 6.49,
+    "description": "The #1 selling organic bread in the country, packed with protein, fiber, and whole grains.",
+    "img": "https://placehold.co/600x400/c2410c/ffffff?text=Killer+Bread",
+    "specs": {
+      "Weight": "27 oz",
+      "Slices": "21",
+      "Certification": "USDA Organic"
+    },
+    "features": ["5g protein per slice", "Non-GMO Project Verified", "No high-fructose corn syrup"]
+  },
+  {
+    "id": 67,
+    "name": "Cashmere Crewneck Sweater",
+    "brand": "J.Crew",
+    "category": "Women's Fashion",
+    "price": 128.00,
+    "description": "A classic crewneck sweater in our signature, famously soft cashmere.",
+    "img": "https://placehold.co/600x400/a8a29e/ffffff?text=J.Crew+Sweater",
+    "specs": {
+      "Material": "100% Cashmere",
+      "Fit": "Classic",
+      "Neckline": "Crewneck"
+    },
+    "features": ["Rib trim at neck, cuffs, and hem", "Sustainably sourced", "Lightweight yet warm"]
+  },
+  {
+    "id": 68,
+    "name": "Roku Ultra 4K",
+    "brand": "Roku",
+    "category": "Electronics",
+    "price": 99.99,
+    "description": "Roku's fastest and most powerful player ever. Enjoy a seamless streaming experience.",
+    "img": "https://placehold.co/600x400/581c87/ffffff?text=Roku",
+    "specs": {
+      "Resolution": "4K, HDR, Dolby Vision",
+      "Connectivity": "Wi-Fi, Ethernet",
+      "Remote": "Voice Remote Pro"
+    },
+    "features": ["Lost remote finder", "Private listening with headphones", "Access to thousands of channels"]
+  },
+  {
+    "id": 69,
+    "name": "Carhartt WIP Chore Coat",
+    "brand": "Carhartt",
+    "category": "Men's Fashion",
+    "price": 228.00,
+    "description": "A classic workwear-inspired jacket made from durable Dearborn Canvas.",
+    "img": "https://placehold.co/600x400/7f1d1d/ffffff?text=Carhartt",
+    "specs": {
+      "Material": "12oz Dearborn Canvas",
+      "Lining": "Striped blanket lining",
+      "Pockets": "Four front patch pockets"
+    },
+    "features": ["Corduroy top collar", "Triple-stitched seams", "Water repellent fabric"]
+  },
+  {
+    "id": 70,
+    "name": "Breville Barista Express",
+    "brand": "Breville",
+    "category": "Home & Kitchen",
+    "price": 749.95,
+    "description": "Create great tasting espresso in less than a minute. From bean to espresso in one machine.",
+    "img": "https://placehold.co/600x400/71717a/ffffff?text=Breville",
+    "specs": {
+      "Grinder": "Integrated conical burr grinder",
+      "Pressure": "15 Bar Italian Pump",
+      "Heating System": "ThermoJet"
+    },
+    "features": ["Dose-control grinding", "Precise espresso extraction", "Manual microfoam milk texturing"]
+  },
+  {
+    "id": 71,
+    "name": "Supergoop! Unseen Sunscreen",
+    "brand": "Supergoop!",
+    "category": "Beauty & Health",
+    "price": 38.00,
+    "description": "The original, 100% invisible, weightless, scentless sunscreen with SPF 40.",
+    "img": "https://placehold.co/600x400/fefce8/000000?text=Supergoop!",
+    "specs": {
+      "SPF": "40",
+      "Type": "Broad Spectrum",
+      "Finish": "Natural"
+    },
+    "features": ["Acts as a makeup-gripping primer", "Oil-free", "Reef-safe"]
+  },
+  {
+    "id": 72,
+    "name": "The Seven Husbands of Evelyn Hugo",
+    "brand": "Simon & Schuster",
+    "category": "Books & Stationery",
+    "price": 17.00,
+    "description": "A mesmerizing journey through the splendor of old Hollywood into the harsh realities of the present day.",
+    "img": "https://placehold.co/600x400/047857/ffffff?text=Evelyn+Hugo",
+    "specs": {
+      "Author": "Taylor Jenkins Reid",
+      "Genre": "Historical Fiction",
+      "Pages": "400"
+    },
+    "features": ["TikTok Sensation", "New York Times Bestseller", "A story of ruthless ambition"]
+  },
+  {
+    "id": 73,
+    "name": "La Croix Sparkling Water, Pamplemousse",
+    "brand": "La Croix",
+    "category": "Groceries",
+    "price": 5.49,
+    "description": "A refreshing sparkling water with a hint of natural grapefruit essence.",
+    "img": "https://placehold.co/600x400/f43f5e/ffffff?text=La+Croix",
+    "specs": {
+      "Quantity": "12-pack",
+      "Calories": "0",
+      "Sweetener": "0"
+    },
+    "features": ["Innocent ingredients", "100% natural", "Calorie-free, sweetener-free, sodium-free"]
+  },
+  {
+    "id": 74,
+    "name": "Leather Crossbody Bag",
+    "brand": "Madewell",
+    "category": "Women's Fashion",
+    "price": 168.00,
+    "description": "A timeless leather bag that can be worn as a crossbody or shoulder bag.",
+    "img": "https://placehold.co/600x400/78350f/ffffff?text=Madewell+Bag",
+    "specs": {
+      "Material": "Vegetable-tanned leather",
+      "Strap": "Adjustable and detachable",
+      "Closure": "Magnetic snap"
+    },
+    "features": ["Interior slip pocket", "Exterior pocket", "Gets better with age"]
+  },
+  {
+    "id": 75,
+    "name": "Anker PowerCore 10000",
+    "brand": "Anker",
+    "category": "Electronics",
+    "price": 25.99,
+    "description": "One of the smallest and lightest 10000mAh portable chargers.",
+    "img": "https://placehold.co/600x400/1e293b/ffffff?text=Anker+PowerCore",
+    "specs": {
+      "Capacity": "10000mAh",
+      "Output": "12W",
+      "Ports": "1 USB-A"
+    },
+    "features": ["High-speed charging with PowerIQ", "Compact size", "MultiProtect safety system"]
+  },
+  {
+    "id": 76,
+    "name": "Dr. Martens 1460 Boots",
+    "brand": "Dr. Martens",
+    "category": "Men's Fashion",
+    "price": 170.00,
+    "description": "The original Dr. Martens boot. Instantly recognizable, and built to last.",
+    "img": "https://placehold.co/600x400/000000/ffffff?text=Dr.+Martens",
+    "specs": {
+      "Material": "Smooth Leather",
+      "Construction": "Goodyear Welt",
+      "Sole": "AirWair™"
+    },
+    "features": ["8-eye boot", "Iconic yellow stitching", "Air-cushioned sole"]
+  },
+  {
+    "id": 77,
+    "name": "Vitamix Explorian Blender",
+    "brand": "Vitamix",
+    "category": "Home & Kitchen",
+    "price": 349.95,
+    "description": "A powerful, versatile blender that can handle everything from smoothies to hot soup.",
+    "img": "https://placehold.co/600x400/dc2626/ffffff?text=Vitamix",
+    "specs": {
+      "Capacity": "64 oz",
+      "Speeds": "Variable Speed Control",
+      "Motor": "2.0 HP"
+    },
+    "features": ["Pulse feature", "Aircraft-grade stainless steel blades", "Self-cleaning"]
+  },
+  {
+    "id": 78,
+    "name": "Glow Recipe Watermelon Glow Niacinamide Dew Drops",
+    "brand": "Glow Recipe",
+    "category": "Beauty & Health",
+    "price": 35.00,
+    "description": "A highlighting serum that brightens skin and reduces hyperpigmentation.",
+    "img": "https://placehold.co/600x400/fda4af/000000?text=Glow+Recipe",
+    "specs": {
+      "Volume": "40ml",
+      "Key Ingredients": "Niacinamide, Watermelon",
+      "Format": "Serum"
+    },
+    "features": ["Delivers a glow instantly and over time", "Can be used as a primer", "Lightweight and buildable"]
+  },
+  {
+    "id": 79,
+    "name": "Field Notes Memo Book",
+    "brand": "Field Notes",
+    "category": "Books & Stationery",
+    "price": 14.95,
+    "description": "Durable materials, and a variety of page patterns. Made in the USA.",
+    "img": "https://placehold.co/600x400/a16207/ffffff?text=Field+Notes",
+    "specs": {
+      "Quantity": "3-pack",
+      "Size": "3.5\" x 5.5\"",
+      "Pages": "48"
+    },
+    "features": ["Graph paper ruling", "Rugged three-staple saddle-stitch binding", "Fits in a pocket"]
+  },
+  {
+    "id": 80,
+    "name": "Kettle Brand Potato Chips, Sea Salt",
+    "brand": "Kettle",
+    "category": "Groceries",
+    "price": 3.79,
+    "description": "Thick-cut, crunchy potato chips with a perfect sprinkle of sea salt.",
+    "img": "https://placehold.co/600x400/166534/ffffff?text=Kettle+Chips",
+    "specs": {
+      "Weight": "8.5 oz",
+      "Flavor": "Sea Salt",
+      "Cooked": "Kettle-cooked in small batches"
+    },
+    "features": ["Non-GMO Project Verified", "Gluten-free", "No artificial preservatives"]
+  },
+  {
+    "id": 81,
+    "name": "Everlane The Way-High Jean",
+    "brand": "Everlane",
+    "category": "Women's Fashion",
+    "price": 98.00,
+    "description": "A high-rise, straight-leg jean made from premium organic cotton.",
+    "img": "https://placehold.co/600x400/d1d5db/000000?text=Everlane+Jean",
+    "specs": {
+      "Material": "Organic Cotton",
+      "Rise": "12.125 inches",
+      "Fit": "Straight"
+    },
+    "features": ["Holds you in for a smoothing effect", "Minimal stretch", "Made at a sustainable factory"]
+  },
+  {
+    "id": 82,
+    "name": "Logitech MX Master 3S Mouse",
+    "brand": "Logitech",
+    "category": "Electronics",
+    "price": 99.99,
+    "description": "An iconic mouse remastered for performance, precision, and silence.",
+    "img": "https://placehold.co/600x400/4b5563/ffffff?text=Logitech+Mouse",
+    "specs": {
+      "Sensor": "8K DPI Optical",
+      "Scrolling": "MagSpeed Electromagnetic",
+      "Connectivity": "Bluetooth, Logi Bolt"
+    },
+    "features": ["Quiet Clicks", "Tracks on any surface, even glass", "App-specific customizations"]
+  },
+  {
+    "id": 83,
+    "name": "The North Face 1996 Retro Nuptse Jacket",
+    "brand": "The North Face",
+    "category": "Men's Fashion",
+    "price": 330.00,
+    "description": "The iconic jacket from the '90s, now with a boxy silhouette and lofty down insulation.",
+    "img": "https://placehold.co/600x400/f97316/ffffff?text=Nuptse+Jacket",
+    "specs": {
+      "Fill": "700 Fill Goose Down",
+      "Fabric": "Ripstop with DWR finish",
+      "Fit": "Relaxed"
+    },
+    "features": ["Stowable hood", "Oversized baffles", "Packs into its own pocket"]
+  },
+  {
+    "id": 84,
+    "name": "Simplehuman Sensor Soap Pump",
+    "brand": "simplehuman",
+    "category": "Home & Kitchen",
+    "price": 70.00,
+    "description": "Touch-free and clog-proof, for easy, clean dispensing of soap.",
+    "img": "https://placehold.co/600x400/e5e7eb/000000?text=simplehuman",
+    "specs": {
+      "Capacity": "9 fl. oz.",
+      "Power": "Rechargeable (up to 3 months)",
+      "Dispense": "Variable"
+    },
+    "features": ["No-drip valve", "Waterproof for easy cleaning", "Funnel refill opening"]
+  },
+  {
+    "id": 85,
+    "name": "Tatcha The Dewy Skin Cream",
+    "brand": "Tatcha",
+    "category": "Beauty & Health",
+    "price": 72.00,
+    "description": "A rich cream that feeds skin with plumping hydration and antioxidant-packed Japanese purple rice.",
+    "img": "https://placehold.co/600x400/9333ea/ffffff?text=Tatcha",
+    "specs": {
+      "Volume": "50ml",
+      "Skin Type": "Dry, Normal",
+      "Key Ingredients": "Japanese Purple Rice, Hyaluronic Acid"
+    },
+    "features": ["Provides a dewy, healthy glow", "Ideal for dry skin", "Non-comedogenic"]
+  },
+  {
+    "id": 86,
+    "name": "Rhodia DotPad N°16",
+    "brand": "Rhodia",
+    "category": "Books & Stationery",
+    "price": 8.50,
+    "description": "Favored by designers and architects for its super smooth, fountain pen friendly paper.",
+    "img": "https://placehold.co/600x400/ea580c/ffffff?text=Rhodia",
+    "specs": {
+      "Size": "A5 (5.8\" x 8.3\")",
+      "Paper": "80g extra white",
+      "Ruling": "Dot grid"
+    },
+    "features": ["Micro-perforated for easy removal", "Coated card cover", "Reinforced staples"]
+  },
+  {
+    "id": 87,
+    "name": "Chobani Greek Yogurt, Strawberry",
+    "brand": "Chobani",
+    "category": "Groceries",
+    "price": 1.50,
+    "description": "Authentically crafted with only natural ingredients and real fruit.",
+    "img": "https://placehold.co/600x400/be185d/ffffff?text=Chobani",
+    "specs": {
+      "Size": "5.3 oz",
+      "Protein": "12g",
+      "Milkfat": "Low-fat (1.5%)"
+    },
+    "features": ["Billions of probiotics", "No artificial flavors or preservatives", "Gluten-free"]
+  },
+  {
+    "id": 88,
+    "name": "Veja Campo Sneaker",
+    "brand": "Veja",
+    "category": "Women's Fashion",
+    "price": 175.00,
+    "description": "A stylish and sustainable sneaker made from ecological materials.",
+    "img": "https://placehold.co/600x400/fafafa/000000?text=Veja",
+    "specs": {
+      "Upper": "ChromeFree leather",
+      "Lining": "Recycled polyester",
+      "Sole": "Amazonian rubber"
+    },
+    "features": ["Made in Brazil", "Sustainable materials", "Iconic V logo"]
+  },
+  {
+    "id": 89,
+    "name": "Kindle Paperwhite Signature Edition",
+    "brand": "Amazon",
+    "category": "Electronics",
+    "price": 189.99,
+    "description": "Get more with a 6.8” display, wireless charging, and an auto-adjusting front light.",
+    "img": "https://placehold.co/600x400/1f2937/ffffff?text=Kindle",
+    "specs": {
+      "Display": "6.8-inch, 300 ppi glare-free",
+      "Storage": "32 GB",
+      "Waterproof": "IPX8"
+    },
+    "features": ["Adjustable warm light", "Weeks of battery life", "Wireless charging"]
+  },
+  {
+    "id": 90,
+    "name": "Acne Studios Musubi Mini Bag",
+    "brand": "Acne Studios",
+    "category": "Women's Fashion",
+    "price": 1050.00,
+    "description": "A stylish mini bag with twisted musubi knots on each side, inspired by traditional Japanese obi sashes.",
+    "img": "https://placehold.co/600x400/fca5a5/000000?text=Acne+Studios",
+    "specs": {
+      "Material": "100% Calf Leather",
+      "Dimensions": "21.5cm x 15.5cm x 15.5cm",
+      "Closure": "Magnetic"
+    },
+    "features": ["Made in Italy", "Debossed logo", "Interior card pocket"]
+  },
+  {
+    "id": 91,
+    "name": "Aesop Resurrection Aromatique Hand Wash",
+    "brand": "Aesop",
+    "category": "Beauty & Health",
+    "price": 41.00,
+    "description": "A gentle formulation containing oils of Orange, Rosemary and Lavender to effectively cleanse the hands without drying them out.",
+    "img": "https://placehold.co/600x400/a16207/ffffff?text=Aesop",
+    "specs": {
+      "Volume": "500ml",
+      "Aroma": "Citrus, woody, herbaceous",
+      "Key Ingredients": "Mandarin Rind, Rosemary Leaf, Cedar Atlas"
+    },
+    "features": ["Gentle on skin", "Effective cleansing", "Iconic amber bottle"]
+  },
+  {
+    "id": 92,
+    "name": "Stagg EKG Electric Kettle",
+    "brand": "Fellow",
+    "category": "Home & Kitchen",
+    "price": 165.00,
+    "description": "A simple aesthetic and powerful design for the ultimate brewing experience.",
+    "img": "https://placehold.co/600x400/171717/ffffff?text=Fellow+Stagg",
+    "specs": {
+      "Capacity": "0.9L",
+      "Temperature": "Variable Control (135-212°F)",
+      "Spout": "Precision pour spout"
+    },
+    "features": ["To-the-degree temperature control", "1200W quick heat time", "Brew stopwatch"]
+  },
+  {
+    "id": 93,
+    "name": "Common Projects Achilles Low",
+    "brand": "Common Projects",
+    "category": "Men's Fashion",
+    "price": 440.00,
+    "description": "The original luxury sneaker, known for its clean lines and minimalist construction.",
+    "img": "https://placehold.co/600x400/e7e5e4/000000?text=Common+Projects",
+    "specs": {
+      "Material": "Italian Leather",
+      "Sole": "Margom rubber",
+      "Origin": "Made in Italy"
+    },
+    "features": ["Gold foil serial number stamp", "Leather lining and insole", "Durable construction"]
+  },
+  {
+    "id": 94,
+    "name": "Dune by Frank Herbert",
+    "brand": "Ace Books",
+    "category": "Books & Stationery",
+    "price": 10.99,
+    "description": "The landmark science fiction novel, a stunning blend of adventure and mysticism, environmentalism and politics.",
+    "img": "https://placehold.co/600x400/e97451/ffffff?text=Dune",
+    "specs": {
+      "Author": "Frank Herbert",
+      "Genre": "Science Fiction",
+      "Pages": "544"
+    },
+    "features": ["Winner of the Hugo and Nebula Awards", "A timeless classic"]
+  },
+  {
+    "id": 95,
+    "name": "Talenti Gelato, Sea Salt Caramel",
+    "brand": "Talenti",
+    "category": "Groceries",
+    "price": 5.29,
+    "description": "Our most popular flavor, with creamy caramel gelato and chocolatey caramel truffles.",
+    "img": "https://placehold.co/600x400/f59e0b/ffffff?text=Talenti",
+    "specs": {
+      "Size": "Pint",
+      "Flavor": "Sea Salt Caramel",
+      "Source": "Made with real milk and sugar"
+    },
+    "features": ["Slow-cooked caramel", "Non-GMO ingredients", "Recyclable jar"]
+  },
+  {
+    "id": 96,
+    "name": "Google Nest Hub Max",
+    "brand": "Google",
+    "category": "Electronics",
+    "price": 229.00,
+    "description": "The smart display that helps you stay connected, entertained, and in control of your smart home.",
+    "img": "https://placehold.co/600x400/4285F4/ffffff?text=Nest+Hub",
+    "specs": {
+      "Display": "10-inch HD touchscreen",
+      "Camera": "6.5MP Nest Cam",
+      "Audio": "Stereo speakers with 30W subwoofer"
+    },
+    "features": ["Google Assistant built-in", "Face Match for personalized experiences", "Control compatible devices"]
+  },
+  {
+    "id": 97,
+    "name": "A.P.C. Petit New Standard Jeans",
+    "brand": "A.P.C.",
+    "category": "Men's Fashion",
+    "price": 240.00,
+    "description": "A classic five-pocket jean in raw Japanese denim that will break in and fade beautifully over time.",
+    "img": "https://placehold.co/600x400/0f172a/ffffff?text=A.P.C.+Jeans",
+    "specs": {
+      "Material": "Japanese Raw Denim",
+      "Fit": "Slim, Tapered",
+      "Weight": "14.5 oz"
+    },
+    "features": ["Unisex model", "Button fly", "Engraved 'A.P.C.' hardware"]
+  },
+  {
+    "id": 98,
+    "name": "OXO Good Grips POP Container Set",
+    "brand": "OXO",
+    "category": "Home & Kitchen",
+    "price": 112.99,
+    "description": "Airtight, stackable, and space-efficient, making it easy to keep your dry foods fresh and your kitchen organized.",
+    "img": "https://placehold.co/600x400/65a30d/ffffff?text=OXO+POP",
+    "specs": {
+      "Pieces": "10",
+      "Material": "BPA-free plastic",
+      "Seal": "Airtight push-button"
+    },
+    "features": ["Stackable design", "Dishwasher safe", "Corner-friendly for pouring"]
+  },
+  {
+    "id": 99,
+    "name": "Drunk Elephant T.L.C. Framboos Glycolic Night Serum",
+    "brand": "Drunk Elephant",
+    "category": "Beauty & Health",
+    "price": 90.00,
+    "description": "A high-tech AHA/BHA gel that resurfaces dull, congested skin by gently lifting away dead skin cells.",
+    "img": "https://placehold.co/600x400/ec4899/ffffff?text=Drunk+Elephant",
+    "specs": {
+      "Volume": "30ml",
+      "Key Ingredients": "Glycolic, Lactic, Salicylic Acids",
+      "Target": "Dullness, Pores"
+    },
+    "features": ["Improves skin tone and texture", "Vegan and cruelty-free", "Formulated at an ideal pH level"]
+  },
+  {
+    "id": 100,
+    "name": "The Four Agreements",
+    "brand": "Amber-Allen Publishing",
+    "category": "Books & Stationery",
+    "price": 7.77,
+    "description": "A practical guide to personal freedom based on ancient Toltec wisdom.",
+    "img": "https://placehold.co/600x400/06b6d4/ffffff?text=The+Four+Agreements",
+    "specs": {
+      "Author": "Don Miguel Ruiz",
+      "Genre": "Spirituality",
+      "Pages": "160"
+    },
+    "features": ["New York Times Bestseller", "A simple yet powerful code of conduct", "Reveals the source of self-limiting beliefs"]
+  }
+]
